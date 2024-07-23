@@ -7,7 +7,7 @@ Les notions abordées sont les suivantes :
 - Actions
 - Services
 - DDD
-    - Application (policies, request, jobs, excetopns)
+    - Application (policies, request, jobs, exceptions)
     - Ui (routes, controllers, command)
     - Infrastructure (models, seeders, factories)
     - Domain (services, actions, repository, aggregate, dto, exception, query, enums...)
